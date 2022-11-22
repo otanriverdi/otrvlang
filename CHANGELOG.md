@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/otanriverdi/otrvlang/compare/v1.0.0...v1.1.0) (2022-11-22)
+
+
+### Features
+
+* add anoter feature ([622552a](https://github.com/otanriverdi/otrvlang/commit/622552aaedc0ae279d1b89d9b98fcbb6300b36cc))
+* **lexer:** new feature ([b2b75d0](https://github.com/otanriverdi/otrvlang/commit/b2b75d0bd21febd24c543d170d5231176d3c9881))
+
 # 1.0.0 (2022-11-22)
 
 
