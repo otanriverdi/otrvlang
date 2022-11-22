@@ -12,6 +12,7 @@ type Lexer struct {
 func NewLexer(input string) *Lexer {
 	l := &Lexer{input: input}
 	l.readChar()
+	l.readChar()
 
 	return l
 }
